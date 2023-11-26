@@ -20,7 +20,7 @@ To explore and run the code, you need to have the following:
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/SmartHacks25/Dog-Breed-Classifier.git
+    git clone https://github.com/shradhamaria/Dog-Breed-Classifier.git
     cd Dog-Breed-Classifier
     ```
 
